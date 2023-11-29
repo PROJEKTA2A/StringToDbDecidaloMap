@@ -1,14 +1,8 @@
-# String to Skill List
+# String to DB-Decidalo-Map
 
-Dieser Endpoint nimmt den aus der Anforderungsfile stammenden Text entgegen.
+Dieser Endpoint nimmt den aus der Anforderungsfile stammenden Text entgegen und liefert eine Map mit DB Anforderungen als Keys und dazu jeweils passende Listen mit Decidalo Skills
 
-## DB Anforderungs Liste
-
-Aus dem Text werden zum einen Anforderungs KeyWords genommen, die häufig in DB Ausschreubungen genannt werden. Es wird in der Antwort im JSON Eine Liste dieser Anforderungsbegriffe zurückgegeben
-
-## Decidalo Match Liste
-
-die Liste an Anforderungen wird erweitert zu einer Liste an breitgefassten decidalo Skills, um einen direkten Vergleich zu ermöglichen. Wird zusätzlich als JSON zurückgegeben.
+## Senden der POST Request
 
 POST data={"text" : yourText} to https://stringtoskilllist.shigeocst.repl.co/StringToSkillList ->
-returns {"ListeAnforderungen" : ListeAnforderungen, "decidaloMatchList" : textSplit}
+returns {"DbDecidaloMap" : DbDecidaloMap}
