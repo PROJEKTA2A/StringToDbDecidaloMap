@@ -35,5 +35,3 @@ def start():
     t.start()
 
 start()
-
-print(requests.post("https://stringtoskilllist.shigeocst.repl.co/StringToDbDecidaloMap", data={"text" : "bla bla balds dfs fds fds fds"}).text)

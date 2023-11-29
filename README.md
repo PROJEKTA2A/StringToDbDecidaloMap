@@ -4,5 +4,5 @@ Dieser Endpoint nimmt den aus der Anforderungsfile stammenden Text entgegen und 
 
 ## Senden der POST Request
 
-POST data={"text" : yourText} to https://stringtoskilllist.shigeocst.repl.co/StringToSkillList ->
+POST data={"text" : yourText} to https://stringtodbdecidalomap.shigeocst.repl.co/StringToDbDecidaloMap ->
 returns {"DbDecidaloMap" : DbDecidaloMap}
