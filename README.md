@@ -10,5 +10,5 @@ Aus dem Text werden zum einen Anforderungs KeyWords genommen, die häufig in DB 
 
 die Liste an Anforderungen wird erweitert zu einer Liste an breitgefassten decidalo Skills, um einen direkten Vergleich zu ermöglichen. Wird zusätzlich als JSON zurückgegeben.
 
-POST data={"text" : yourText} to https://stringtoskilllist.shigeocst.repl.co/StringToSkillList
+POST data={"text" : yourText} to https://stringtoskilllist.shigeocst.repl.co/StringToSkillList ->
 returns {"ListeAnforderungen" : ListeAnforderungen, "decidaloMatchList" : textSplit}
