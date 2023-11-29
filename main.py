@@ -16,12 +16,14 @@ def StringToSkillList():
   text = request.form.get('text')
 
   # Fake Funktion, returnt nur irgendwelche Listen aus dem Text
+  # An dieser Stelle wird später eine Referenz Liste oder Tabelle zum Erkennen der Keywords genutzt
   ListeAnforderungen = []
   textSplit = text.split(' ')
   i = 0
   while i < len(textSplit):
     ListeAnforderungen.append(textSplit[i])
     i += 5
+  
 
   return {"ListeAnforderungen" : ListeAnforderungen,
          "decidaloMatchList" : textSplit}
