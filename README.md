@@ -6,3 +6,7 @@ Dieser Endpoint nimmt den aus der Anforderungsfile stammenden Text entgegen und 
 
 POST data={"text" : yourText} to https://stringtodbdecidalomap.shigeocst.repl.co/StringToDbDecidaloMap ->
 returns {"DbDecidaloMap" : DbDecidaloMap}
+
+### Collaborate on Replit
+
+https://replit.com/join/exzqyiztsx-shigeocst
