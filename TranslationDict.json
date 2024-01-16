@@ -1,0 +1,159 @@
+{ "Lead Data Management": [
+    "Datenführung",
+    "Initiativmanagement",
+    "Data Leadership",
+    "Initiative Management"
+  ],
+  "Data Governance": [
+    "Governance-Wissen",
+    "Framework-Umsetzung",
+    "Governance Knowledge",
+    "Framework Implementation"
+  ],
+  "Datenkatalog": [
+    "Katalogmanagement",
+    "Taxonomie",
+    "Catalog Management",
+    "Taxonomy"
+  ],
+  "Datenstrategie": [
+    "Entwicklung Datenstrategie",
+    "Strategieumsetzung",
+    "Data Strategy Development",
+    "Strategy Implementation"
+  ],
+  "Datenqualitätsmanagement": [
+    "Qualitätsmessung",
+    "Standardumsetzung","Quality Measurement",
+    "Standard Implementation"
+  ],
+  "Benchmark Analyse": [
+    "Benchmark-Analyse",
+    "Praxisvergleich",
+    "Benchmark Analysis",
+    "Practice Comparison"
+  ],
+  "Kommunikation mit Stakeholdern": [
+    "Kommunikationsfähigkeiten",
+    "Stakeholder-Management",
+    "Communication Skills",
+    "Stakeholder Management"
+  ],
+  "Datenarchitektur": [
+    "Architekturentwicklung",
+    "Datenmodellierung",
+    "Architecture Development",
+    "Data Modeling"
+  ],
+  "Data Office Team": [
+    "Teamleitung",
+    "Teamformierung",
+    "Team Leadership",
+    "Office Team Formation"
+  ],
+  "Gremienarbeit": [
+    "Gremienarbeit",
+    "Committee Work"
+  ],
+  "Seniorität": [
+    "Seniorität Datenmanagement",
+    "Data Management Seniority"
+  ],
+  "Erfahrung mit unternehmensweiten Datenprojekten": [
+    "Erfahrung mit unternehmensweiten Datenprojekten",
+     "Enterprise Data Project Experience"
+  ],
+  "Prozesswelt der DB FV": [
+    "Prozesswissen DB FV",
+    "DB FV Process Knowledge"
+  ],
+  "Gestaltung & Governance digitaler Plattformen": [
+    "Gestaltung digitaler Plattformen",
+    "Governance",
+    "Digital Platform Design"
+  ],
+  "Aufbau partnerschaftlicher Geschäftsmodelle": [
+    "Aufbau partnerschaftlicher Geschäftsmodelle",
+    "Collaborative Business Models"
+  ],
+  "Koordination von Entscheidungsprozessen": [
+    "Koordination Entscheidungsprozesse",
+    "Decision Process Coordination"
+  ],
+  "Eigenständige Konzeption & Durchführung von Workshops": [
+    "Eigenständige Workshop-Konzeption",
+    "Durchführung",
+    "Independent Workshop Design",
+    "Conduct"
+  ],
+  "Projektkoordination" : ["Projektmanagement"],
+  "Product Owner" : ["Product Owner", "Expert Product Owner"],
+  "Senior Expert" : ["SE", "Senior Expert"],
+  "Stakeholder" : ["Stakeholder"],
+  "JIRA" : ["JIRA"],
+  "Multiprojektsteuerung": ["Multiproject Control Experience", "Erfahrung in der Multiprojektsteuerung", "Project Portfolio Management", "Project Coordination"],
+  "Erfolgreiche Tätigkeit in vergleichbaren Herausforderungen": ["Successful Activity in Comparable Challenges", "Erfolgreiche Tätigkeit in vergleichbaren Herausforderungen", "Problem Solving", "Adaptability"],
+  "Produktmanagement": ["Product Management", "Produktmanagement", "Product Lifecycle Management", "Product Strategy"],
+  "Plattform-Verantwortung Fahrzeug-IT": ["Platform Responsibility Vehicle IT", "Plattform-Verantwortung Fahrzeug-IT", "IT Platform Management", "Vehicle IT Platform Governance"],
+  "IST-Analyse": ["As-Is Analysis", "IST-Analyse", "Current State Assessment", "Requirements Analysis"],
+  "User Journey": ["User Journey", "User Journey Mapping", "Customer Experience Design", "User-Centric Design"],
+  "Pain Points": ["Identifying Pain Points", "Pain Points Analysis", "Pain Points", "Analyse von Pain Points", "Problem Identification", "Customer Pain Analysis"],
+  "Anforderungsanalyse": ["Requirements Analysis", "Anforderungsanalyse", "Requirement Elicitation", "Stakeholder Consultation"],
+  "Produktstrategie": ["Product Strategy", "Produktstrategie", "Strategic Planning", "Market Analysis"],
+  "Projektpläne": ["Project Plans", "Projektpläne", "Project Scheduling", "Timeline Management"],
+  "Konzepterstellung": ["Concept Development", "Konzepterstellung", "Idea Generation", "Conceptualization"],
+  "IT-Produktstrategie": ["IT Product Strategy", "IT-Produktstrategie", "Technology Roadmapping", "IT Strategy Development"],
+  "Koordination der Beschaffung": ["Procurement Coordination", "Koordination der Beschaffung", "Vendor Management", "Supply Chain Coordination"],
+  "MS Teams": ["MS Teams", "MS Teams", "Collaboration Software", "Team Communication"],
+  "MS Sharepoint": ["MS Sharepoint", "MS Sharepoint", "Document Management", "Collaborative Intranet"],
+  "IT-Sicherheit": ["IT Security", "IT-Sicherheit", "Cybersecurity", "Security Auditing"],
+  "Datenschutz": ["Data Protection", "Datenschutz", "Privacy Compliance", "Data Security"],
+  "Onshore": ["Onshore", "Onshore", "Domestic Operations", "Local Presence"],
+  "Präsentation von Projektergebnissen auf Management-Level" : ["Präsentation", "Management Level", "Management-Level"],
+  "Projektmanagement in komplexen Projekten" : ["Projektleitung", "Projektmanagement-Zertifizierung", "IPMA Level B"],
+  "Identifikation von Chancen/Risiken" : ["Risikomanagement"],
+  "professionelle WLAN-Netzwerke" : ["Network & Infrastructure", "Network", "Infrastructure", " Transport Control Protocoll", "Internet Protocol", "IP", "TCP"],
+  "professionelle Netzwerke" : ["Network & Infrastructure", "Network", "Infrastructure", " Transport Control Protocoll", "Internet Protocol", "IP", "TCP"],
+  "Mobilfunk" : ["Network & Infrastructure", "Network", "Infrastructure", " Transport Control Protocoll", "Internet Protocol", "IP", "TCP"],
+  "Fahrzeug-IT" : ["Network & Infrastructure", "Network", "Infrastructure", " Transport Control Protocoll", "Internet Protocol", "IP", "TCP"],
+  "Lieferantensteuerung" : ["Lieferantensteuerung"],
+  "Personenverkehr" : ["DB", "Bahn"],
+  "Bahn" : ["DB", "Bahn"],
+  "Scrum" : ["Agil", "Scrum", "Agile Project Management", "Projektmanagement", "agiles Projektmanagement"],
+  "Agil" : ["Agile Methoden", "Scrum", "Agile Project Management", "Projektmanagement", "agiles Projektmanagement", "DevOps", "GitOps"],
+  "Kommunikationsfreude" : ["Soft Skills", "Zielorientierung", "Konfliktmanagement"],
+  "Konfliktfähigkeit" : ["Soft Skills", "Zielorientierung", "Konfliktmanagement"],
+  "Zielorientierung" : ["Soft Skills", "Zielorientierung", "Konfliktmanagement"],
+  "Digitalen Services" : ["Digitalisierung"],
+  "Digitale Services" : ["Digitalisierung", "Cloud"],
+  "Schnittstellen" : ["Cloud", "REST", "API"],
+  "Hochgeschwindigkeitszüge" : ["WLAN"],
+  "ZLK/WLAN in Hochgeschwindigkeitszügen" : ["Network", "Infrastructure", "WLAN", "Netzwerke", "Infrastruktur"],
+  "Erfahrung in der Präsentation von Projektergebnissen-auf Management-Level": ["Projekt Management - International Experience", "Project Management Experience - Operation Projects"],
+    "Erfahrung im Projektmanagement und Problemlösungs-/Arbeitsorganisations-Know-how in komplexen Projekten": ["Projektmanagement", "Projektmanagement Methoden", "Projektplanung und -organisation", "Projektscoping und -initiierung", "Projektsteuerung und -reporting", "Scrum"],
+    "Erfahrung in der Leitung von komplexen Projekten mit strategischer Bedeutung": ["Projektmanagement", "Projektmanagement Methoden", "Projektplanung und -organisation", "Projektscoping und -initiierung", "Projektsteuerung und -reporting", "Programmmanagement", "Projekt Management - International Experience", "Project Management - Transformation Projects", "Project Management - Transition Projects"],
+    "Know-how zur Identifikation Chancen/Risiken": ["Risikomanagement"],
+    "Erfahrung in mindestens einem der folgenden Bereiche: professionelle WLAN-Netzwerke, Mobilfunk oder Fahrzeug-IT": ["Kenntnis der Produktlinie", "Projekt Management - International Experience", "Project Management - Transition Projects"],
+    "Erfahrungen mit Lieferantensteuerung": ["Projekt Management - Operation Projects", "Project Management - Presales Projects", "Project Management - Transformation Projects"],
+  "Erfahrung im Bereich Personenverkehr (Bahn) oder Industrien mit vergleichbaren Anforderungen": ["Projektmanagement", "Projektmanagement Methoden", "Projektplanung und -organisation", "Projektscoping und -initiierung", "Projektsteuerung und -reporting", "Programmmanagement", "Projekt Management - International Experience", "Project Management - Transformation Projects", "Project Management - Transition Projects"],
+  "Erfahrung mit agilen Projekten": ["Agile Methoden", "Scrum"],
+  "Kommunikationsfreude, Konfliktfähigkeit, Zielorientierung": ["Projektmanagement", "Projektsteuerung und -reporting", "Stakeholdermanagement", "Veränderungsmanagement", "Strategische Vertriebsplanung"],
+  "Erfahrungen mit Digitalen Services & Schnittstellen": ["Transition und Transformation", "Projektmanagement", "Projekt Management - Transition Projects"],
+  "Erfahrungen im Bereich ZLK/WLAN in Hochgeschwindigkeitszügen": ["Projektmanagement", "Projekt Management - Transition Projects"],
+  "Erfahrung im Marketing": ["Marketingstrategie und Positionierung", "Marketingaufgaben und -aktivitäten", "Management für Social-Media-Marketing"],
+  "Erfahrung im Bereich IT-Service-Management": ["IT-Service-Management", "ITSM"],
+  "ITSM" : ["IT-Service-Management", "ITSM"],
+  "Erfahrung im Bereich IT-Architektur": ["IT-Architektur"],
+  "Deutsch Verhandlungssicher" : ["Deutsch Verhandlungssicher", "Deutsch Muttersprache"],
+  "Deutsch" : ["Deutsch Verhandlungssicher", "Deutsch Muttersprache"],
+  "Englisch Verhandlungssicher"  : ["Englisch Verhandlungssicher", "Englisch Verhandlungssicher"],
+  "Englisch" : ["Englisch Verhandlungssicher", "Englisch Verhandlungssicher"],
+  "Entwicklung" : ["Anwendungsentwicklung", "Benutzerakzeptanztests", "UAT", "C++", "Datenanalyse - Visualisierung", "Designprozess und -methoden", "GUI Design", "Java", "Modellierung", "UML", "Programmierung", "Python", "Software Engineering", "SQL", "Testing"],
+  "Development" : ["Anwendungsentwicklung", "Benutzerakzeptanztests", "UAT", "C++", "Datenanalyse - Visualisierung", "Designprozess und -methoden", "GUI Design", "Java", "Modellierung", "UML", "Programmierung", "Python", "Software Engineering", "SQL", "Testing"], 
+  "System Design" : ["Anwendungsentwicklung", "Benutzerakzeptanztests", "UAT", "C++", "Datenanalyse - Visualisierung", "Designprozess und -methoden", "GUI Design", "Java", "Modellierung", "UML", "Programmierung", "Python", "Software Engineering", "SQL", "Testing"], 
+  "Programmierung" : ["Anwendungsentwicklung", "Benutzerakzeptanztests", "UAT", "C++", "Datenanalyse - Visualisierung", "Designprozess und -methoden", "GUI Design", "Java", "Modellierung", "UML", "Programmierung", "Python", "Software Engineering", "SQL", "Testing"], 
+  "Software Enginieering" : ["Anwendungsentwicklung", "Benutzerakzeptanztests", "UAT", "C++", "Datenanalyse - Visualisierung", "Designprozess und -methoden", "GUI Design", "Java", "Modellierung", "UML", "Programmierung", "Python", "Software Engineering", "SQL", "Testing"], 
+  "Java" : ["Anwendungsentwicklung", "Benutzerakzeptanztests", "UAT", "C++", "Datenanalyse - Visualisierung", "Designprozess und -methoden", "GUI Design", "Java", "Modellierung", "UML", "Programmierung", "Python", "Software Engineering", "SQL", "Testing"],
+  "Python" : ["Anwendungsentwicklung", "Benutzerakzeptanztests", "UAT", "C++", "Datenanalyse - Visualisierung", "Designprozess und -methoden", "GUI Design", "Java", "Modellierung", "UML", "Programmierung", "Python", "Software Engineering", "SQL", "Testing"],
+  "C++" : ["Anwendungsentwicklung", "Benutzerakzeptanztests", "UAT", "C++", "Datenanalyse - Visualisierung", "Designprozess und -methoden", "GUI Design", "Java", "Modellierung", "UML", "Programmierung", "Python", "Software Engineering", "SQL", "Testing"] 
+}
