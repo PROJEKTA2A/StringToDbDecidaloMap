@@ -8,5 +8,4 @@ POST data={"text" : yourText} to https://stringtodbdecidalomap.shigeocst.repl.co
 returns {"DbDecidaloMap" : DbDecidaloMap}
 
 ### Collaborate on Replit
-
-https://replit.com/join/exzqyiztsx-shigeocst
+https://replit.com/join/gwogpgxiub-shigeocst
